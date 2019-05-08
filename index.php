@@ -93,6 +93,7 @@
                     <a target="_blank" href="http://numberguesser.jelletraa.com">Numberguesser</a><br>
                     <a target="_blank" href="http://loancalculator.jelletraa.com">Loancalculator</a>
                     <a target="_blank" href="http://finance.jelletraa.com">ERP-online</a>
+                    <a target="_blank" href="http://chuck-norris-joke-generator.jelletraa.com">Joke-generator</a>
                     <a target="_blank" href="http://weather.jelletraa.com">WeatherApplication</a>
                     <a target="_blank" href="http://kalenderweek.jelletraa.com">CalendarApplication</a>
                     <a target="_blank" href="http://meditation.jelletraa.com">MeditationApplication</a>
