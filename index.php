@@ -78,25 +78,28 @@
 
             <div class="content">
                 <div class="title">
-                    Welkom on the Landing Page of Jelle Traa,</div>
+                    Welcome on the Landing Page of Jelle Traa,</div>
                     <div class="subtitle m-b-md">
-                    Below you can see all my projects and a link to my GitHub with all the projects plus more!
+                    Below you can see all my projects, my GitHub and a video gallery of my offline projects!
                     </div><br>
                 
 
                 <div class="links">
                     
-                    <a target="_blank" href="http://portfolio.jelletraa.com">Portfolio</a>
+                    
                     <a href="gallery.php">Gallery</a>
                     <a target="_blank" href="http://github.com/jtraa">GitHub</a>
                     <a target="_blank" href="http://booklist.jelletraa.com">Booklist</a>
-                    <a target="_blank" href="http://numberguesser.jelletraa.com">Numberguesser</a><br>
+                    <a target="_blank" href="http://numberguesser.jelletraa.com">Numberguesser</a>
                     <a target="_blank" href="http://loancalculator.jelletraa.com">Loancalculator</a>
+                    <a target="_blank" href="http://githubfinder.jelletraa.com">GitHub finder</a> <br>
+                    
                     <a target="_blank" href="http://finance.jelletraa.com">ERP-online</a>
                     <a target="_blank" href="http://chuck-norris-joke-generator.jelletraa.com">Joke-generator</a>
                     <a target="_blank" href="http://weather.jelletraa.com">WeatherApplication</a>
                     <a target="_blank" href="http://kalenderweek.jelletraa.com">CalendarApplication</a>
                     <a target="_blank" href="http://meditation.jelletraa.com">MeditationApplication</a>
+                    <a target="_blank" href="http://portfolio.jelletraa.com">First Portfolio</a>
                 </div>
             </div>
     </body>
