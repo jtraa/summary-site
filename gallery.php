@@ -34,7 +34,31 @@
   </p></center>
   
 </div>
+
 <div class="columns is-multiline">
+
+<div class="column is-one-third-desktop is-half-tablet">
+    <div class="card">
+        <div class="card-image">
+        <video width="600" height="auto" controls>
+        <source src="resources/vid/AdminApllication.mp4" type="video/mp4">
+            <div class="card-content is-overlay is-clipped">
+              <span class="tag is-info">
+                Photo Title
+              </span>       
+            </div>
+        </div>
+        <footer class="card-footer">
+            <h4 class="card-footer-item">
+            Admin Application Laravel <br>
+            </h4>
+            <a href="https://github.com/jtraa/Employee-and-client-Management-CRUDSystem" class="card-footer-item">
+              Check Code
+            </a>
+        </footer>
+    </div>
+  </div>
+
   <div class="column is-one-third-desktop is-half-tablet">
     <div class="card">
         <div class="card-image">
@@ -130,7 +154,7 @@
         <source src="resources/vid/braber.mp4" type="video/mp4">
               <div class="card-content is-overlay is-clipped">
               <span class="tag is-info">
-                Photo Title That is really long to show the clipping
+                Photo Title 
               </span>       
             </div>
         </div>
@@ -144,6 +168,7 @@
         </footer>
     </div>
   </div>
+
 </div>
 
 </body>
