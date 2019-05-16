@@ -20,13 +20,18 @@
                 height: 100vh;
                 margin: 0;
             }    
+  @media only screen and (max-width: 600px) {
+  .title {
+   padding-top: 15px;
+  }
+}
         
     </style>
 
 </head>
 <body>
-    <div style="position:absolute" class="homebutton"><a href="index.php" class="button is-hoovered is-medium is-dark">Home</a></div>
-    <center><div style="font-size:50px;" class="title">Project Gallery</div></center>
+    <div class="homebutton"><a style="border-radius:0;" href="index.php" class="home button is-hoovered">Home</a></div>
+    <center><div style="font-size:50px;" class="title gallerytitle">Project Gallery</div></center>
 
     <div class="content is-large">
 
@@ -75,7 +80,7 @@
               ToDo4U Tasklist <br>
             </h4>
             <a href="https://github.com/jtraa/TODO4U" class="card-footer-item">
-              Check Code
+            Check Code
             </a>
         </footer>
     </div>
