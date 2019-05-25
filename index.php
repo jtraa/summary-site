@@ -72,6 +72,32 @@
             .m-b-md {
                 margin-bottom: 80px;
             }
+
+            @media(max-width: 700px) {
+                html body{
+                    overflow: scroll;
+                }
+                .links > a {
+                color: #636b6f;
+                padding: 0 0px 0px;
+                font-size: 13px;
+                font-weight: 800;
+                letter-spacing: .001rem;
+                text-decoration: none;
+                text-transform: uppercase;
+                }
+                .title {
+                    font-size: 40px;
+                    padding-bottom: 10px;
+                }
+                .subtitle {
+                    font-size: 15px;
+                    
+                }
+                .content {
+                    margin-top: 50px;
+                }
+            }
         </style>
     </head>
     <body>
