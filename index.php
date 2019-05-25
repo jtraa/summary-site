@@ -6,6 +6,9 @@
 
         <title>Jelle Traa</title>
 
+        <!-- Icon -->
+        <link rel="icon" href="resources/icon/hack.png"/>
+
         <!-- Fonts -->
 
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
